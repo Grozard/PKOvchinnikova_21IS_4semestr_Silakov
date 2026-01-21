@@ -27,5 +27,5 @@
 | **Курносенко Александр** | [Alixandros/PKOvchinnikova_21IS_4semestr_Kyrnosenko.A.C](https://github.com/Alixandros/PKOvchinnikova_21IS_4semestr_Kyrnosenko.A.C) |
 | **Поздняков Владимир** | [Voviy-ux/PKOvchinnikova_21IS_PozdnyakovVR](https://github.com/Voviy-ux/PKOvchinnikova_21IS_PozdnyakovVR) |
 | **Юхин Лавр** | [PananiXX/PKOvchinnikova_21IS_4semestr_Yukhin](https://github.com/PananiXX/PKOvchinnikova_21IS_4semestr_Yukhin) |
-| **Тараканова Андрей** | *[20.01.26](https://github.com/andreitar3/20.01.26)* |
-| **Микштас Артурас** | *[Mrkirk1/PKOvchinnikova_21IS_4semestr_Mikshtas](https://github.com/Mrkirk1/PKOvchinnikova_21IS_4semestr_Mikshtas)* |
+| **Тараканова Андрей** | [andreitar3/PKOvchinnikova_21IS_4semestr_Tarakanov]([https://github.com/andreitar3/20.01.26](https://github.com/andreitar3/PKOvchinnikova_21IS_4semestr_Tarakanov))* |
+| **Микштас Артурас** | [Mrkirk1/PKOvchinnikova_21IS_4semestr_Mikshtas](https://github.com/Mrkirk1/PKOvchinnikova_21IS_4semestr_Mikshtas)* |
